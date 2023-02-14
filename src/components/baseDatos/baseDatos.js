@@ -12,8 +12,9 @@ export const arregloProductos = [
     {id:2, title: "Amigo Imaginario", price: 1200, pictureUrl: imaginario, categoria:"Terror"},
     {id:3, title: "Sera Hermoso Morir Juntos", price: 1300, pictureUrl: hermoso, categoria:"Comedia Romantica"},
     {id:4, title: "De Pronto", price: 1100, pictureUrl: pronto,categoria:"Comedia Romantica"},
-    {id:5, title: "Yo Te Vi Primero", price: 45, pictureUrl: vi,categoria:"Comedia Romantica"},
+    {id:5, title: "Yo Te Vi Primero", price: 450, pictureUrl: vi,categoria:"Comedia Romantica"},
     {id:6, title: "Una Leccion Olvidada", price: 800, pictureUrl: leccion, categoria:"Historia"},
     {id:7, title: "Homero La Odisea", price: 850, pictureUrl: odisea,categoria:"Historia"},
     {id:8, title: "El Imperio Romano", price: 120, pictureUrl: imperio,categoria:"Historia"},
 ]
+

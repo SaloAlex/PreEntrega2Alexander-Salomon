@@ -6,6 +6,7 @@ import { arregloProductos } from "../../baseDatos/baseDatos";
 import { ItemList } from "../ItemList/ItemList";
 import { useParams } from "react-router-dom";
 
+
 export const ItemListContainer = ()=>{
     const {tipoProducto} = useParams();
 
@@ -34,7 +35,6 @@ export const ItemListContainer = ()=>{
 
         <div className="item-list-container">
             <p>Lista de Libros</p>
-            
             <ItemList items={productos}/>
         </div>
     )

@@ -8,6 +8,9 @@ import { BrowserRouter,Routes,Route } from 'react-router-dom';
 import { CartContainer } from './components/Desafios/CartContainer/CartContainer';
 import { CartProvider } from './context/CartContext';
 
+
+
+
 function App() {
 
   return (

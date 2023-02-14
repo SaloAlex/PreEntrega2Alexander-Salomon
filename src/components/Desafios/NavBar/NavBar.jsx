@@ -3,6 +3,7 @@ import './NavBar.css';
 import logo from '../../../assets/grande.png';
 import {NavLink, Link} from 'react-router-dom';
 
+
 export const Navbar = () =>{
     return(
         <nav className='nav-container'>
